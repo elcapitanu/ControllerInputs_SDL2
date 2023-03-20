@@ -1,5 +1,5 @@
 # ControllerInputs_SDL2
-C++ program for Linux that receive controller inputs using SDL2 library.
+C++ program for Linux that receives controller inputs using SDL2 library.
 
 
 ## Dependecies
