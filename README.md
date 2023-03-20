@@ -16,4 +16,4 @@ Connect a controller to your pc and run ```./controller```.
 
 ## 
 
-Kudos to @Bogas who made most part of the code.
+Kudos to @xBogas who made most part of the code.
